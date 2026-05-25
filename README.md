@@ -93,11 +93,15 @@ and exploring backend engineering, cloud, cybersecurity, and DevOps.
 # 📈 GitHub Stats
 
 <p align="center">
+  <img 
+    width="49%" 
+    src="https://github-readme-stats.vercel.app/api?username=Akashkeni&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" 
+  />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akashkeni&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashkeni&layout=compact&theme=tokyonight"/>
-
+  <img 
+    width="49%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashkeni&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" 
+  />
 </p>
 
 ---
@@ -105,9 +109,11 @@ and exploring backend engineering, cloud, cybersecurity, and DevOps.
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Akashkeni&theme=tokyonight" />
+  <img 
+    width="70%"
+    src="https://streak-stats.demolab.com?user=Akashkeni&theme=tokyonight&hide_border=true&border_radius=10" 
+  />
 </p>
-
 ---
 
 # 🏗️ Featured Project Interests

@@ -42,44 +42,71 @@ Passionate about building scalable applications, experimenting with AI/ML system
 
 ## 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp,bash,powershell,solidity" />
 </p>
 
-## 🌐 Frontend
+---
+
+## 🌐 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind,vite,redux,flutter,electron" />
 </p>
 
-## ⚙️ Backend
+---
+
+## ⚙️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,fastapi,django,spring,hibernate,graphql,kafka" />
 </p>
 
-## 🗄️ Databases
+---
+
+## 🗄️ Databases & Backend Services
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,supabase,appwrite,prisma" />
 </p>
 
-## ☁️ DevOps & Tools
+---
+
+## ☁️ Cloud, DevOps & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,postman,vscode,bash" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,grafana,prometheus,nginx,heroku,vercel" />
 </p>
 
-## 🤖 AI / ML
+---
+
+## 🧠 AI / ML / Data Science
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 </p>
 
 ---
+
+## 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,npm,linux,ubuntu,windows,vscode,pycharm,idea,figma,notion,qt,latex,maven,cypress,jest" />
+</p>
+
+---
+
+## 🔥 Additional Skills
+<p>
+  <img src="https://img.shields.io/badge/Regex-000000?style=for-the-badge&logo=regex&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>---
 
 # 📌 Areas of Interest
 
@@ -133,13 +160,27 @@ Passionate about building scalable applications, experimenting with AI/ML system
 # 🌐 Connect With Me
 
 <p align="left">
+
+  <a href="mailto:keniakash07@gmail.com" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+
   <a href="https://www.linkedin.com/in/akash-keni-ab8680258/" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
 
-  <a href="mailto:keniakash07@gmail.com">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+  <a href="https://discord.com/" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=discord" height="40" />
   </a>
+
+  <a href="https://stackoverflow.com/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="40" />
+  </a>
+
+  <a href="https://twitter.com/" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=twitter" height="40" />
+  </a>
+
 </p>
 
 ---
